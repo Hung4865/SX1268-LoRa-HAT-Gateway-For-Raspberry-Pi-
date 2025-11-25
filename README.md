@@ -58,3 +58,5 @@ Then active the end node, it will send 100 packet
     ```
 
 When 100 packets is sent, press Ctrl+C on the Gateway Pi and you will see the nmber of received packet, averaged RSSI & packet error rate.
+
+Thank you and Good Luck!
