@@ -3,7 +3,7 @@ Please leave a star if you find me useful!
 
 ---
 
-In this repo I have uploaded the 3 folder that came from the waveshare demo from their website https://www.waveshare.com/wiki/SX1268_433M_LoRa_HAT and a additional demo made by me that built upon their original code. For the waveshare tutorial, you can go to their website. I will only be explaining the setup for mine below
+In this repo I have uploaded the 3 folder that came from the waveshare demo from their website https://www.waveshare.com/wiki/SX1268_433M_LoRa_HAT and 1 additional demo made by me that built upon their original code. For the waveshare tutorial, you can go to their website. I will only be explaining the setup for mine below
 
 ---
 ![Diagram](./Image/Diagram.jpg?v=1)
