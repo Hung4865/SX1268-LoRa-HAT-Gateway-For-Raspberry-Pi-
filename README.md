@@ -20,7 +20,9 @@ Putty - Help connect the Rasbian OS terminal to your laptop screen
 
 VNC - Help connect Rasbian OS GUI (sometimes you don't need Putty, VNC is enough, but if there is connection issues, you would need both)
 
-RF_Setting - Help config our LoRa module  (you could config the moudule using code in rasbian OS, but I'm having trouble doing it. In addition, there is a line in my code that prevent the code from overwriting the RF_setting config)
+RF_Setting - Help config our LoRa module (I put it in this repo already) (you could config the moudule using code in rasbian OS, but I'm having trouble doing it. In addition, there is a line in my code that prevent the code from overwriting the RF_setting config)
+
+UART to USB Driver - Help LoRa Module communicate with LapTop
 
 If putty or VNC disconnected, just pull the plug and put it in again.
 
