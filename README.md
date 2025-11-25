@@ -46,7 +46,7 @@ Choose interface setting -> Serial -> Press No -> Press Yes
 In Windows, open RF_Setting. Make sure the end node and gateway node address is different from each other. Everyother parameter must be the same between the 2 nodes. Otherwise, The trasmission will fail.
 ![po](./Image/RF.png?v=1)
 
-Everytime you that you change the a parameter in RF_Setting, you need to adjust the jumpers to mode A (the first 2 rows) and short M0, open M1.
+Everytime you that you change the a parameter in RF_Setting, you need to adjust the jumpers to mode A (the first 2 rows) and short M0, open M1. Don't forget to press "set Para' button
 
 ![ppng](./Image/Config.jpg?v=1)
 
