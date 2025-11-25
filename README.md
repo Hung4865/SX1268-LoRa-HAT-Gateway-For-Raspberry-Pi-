@@ -37,13 +37,13 @@ This is the interface of RF_Setting. Make sure each device address is different 
 
 Everytime you that you change the a parameter in RF_Setting, you need to adjust the jumpers to mode A (the first 2 rows) and short M0, open M1.
 
-![ppng](./Image/Config.jgg?v=1)
+![ppng](./Image/Config.jpg?v=1)
 
 Make sure you press Set Para button and it said that you succeed. If if it said you failed, Pull out all the cables, restart RF_Setting and try again.
 ---
 To enter transmisson mode, you need to adjust the jumpers to mode A (the first 2 rows) and short M0, short M1 (because my code will work with both M0,M1). 
 
-![ppng](./Image/Transmission.jgp?v=1)
+![ppng](./Image/Transmission.jpg?v=1)
 
 ---
 When trying out the demo, you first need to activate the gateway node
