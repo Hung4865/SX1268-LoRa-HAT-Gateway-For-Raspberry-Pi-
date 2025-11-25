@@ -12,7 +12,7 @@ This is the diagram for my gateway setup. There are 2 raspberry pi 4b, one is th
 The 2nd pi will be the gateway node that receives the signal from the end node and then send it to the internet using MQTT protocol. MQTT, which stands for Message Queuing Telemetry Transport, is a lightweight messaging protocol based on the publish-subscribe model that is ideal for connecting devices with limited bandwidth and low power.
 
 ---
-Make sure you download these app to run this project:
+Make sure you download these apps to run this project:
 
 Raspberry Pi Imager - Help to install the Rasbian OS to your SDcard
 
@@ -24,7 +24,7 @@ RF_Setting - Help config our LoRa module (I put it in this repo already) (you co
 
 UART to USB Driver - Help LoRa Module communicate with LapTop
 
-If putty or VNC disconnected, just pull the plug and put it in again.
+If putty or VNC suddenly disconnected, just pull the plug and put it in again.
 
 Watch this video for the step by step setup: https://www.youtube.com/watch?v=F5OYpPUJiOw&t=239s 
 
