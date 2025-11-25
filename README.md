@@ -43,7 +43,7 @@ Make sure you press Set Para button and it said that you succeed. If if it said 
 ---
 To enter transmisson mode, you need to adjust the jumpers to mode A (the first 2 rows) and short M0, short M1 (because my code will work with both M0,M1). 
 
-![ping](./Image/Transmission.jpg?v=1)
+![ppng](./Image/Transmission.jgp?v=1)
 
 ---
 When trying out the demo, you first need to activate the gateway node
