@@ -4,7 +4,7 @@ Please leave a star if you find me useful!
 ---
 In this repo I have uploaded the 3 folder that came from the waveshare demo from their website https://www.waveshare.com/wiki/SX1268_433M_LoRa_HAT and a additional demo made by me that built upon their original code. For the waveshare tutorial, you can go to their website. I will only be explaining the setup for mine below
 ---
-
+![Diagram](./Image/Diagram.png?v=1)
 This is the diagram for my gateway setup. There are 2 raspberry pi 4b, one is the end node that sent LoRa signal to the gateway. 
 
 The 2nd pi will be the gateway node that receives the signal from the end node and then sen it to the internet using MQTT protocol. MQTT, which stands for Message Queuing Telemetry Transport, is a lightweight messaging protocol based on the publish-subscribe model that is ideal for connecting devices with limited bandwidth and low power.
@@ -23,6 +23,7 @@ RF_Setting - Help config our LoRa module (you could config the moudule using cod
 Watch this video for the step by step setup: https://www.youtube.com/watch?v=F5OYpPUJiOw&t=239s 
 
 ---
+![Mapping](./Image/Mapping.png?v=1)
 This is the mode that our module have. Notice that there are 2 coloums and 6 rows. The first 3 row is for the UART Selection, conbine 2 rows will let you enter each A,B,C mode. The 3 rows below is for LoRa mode selection. The jumper will always be put vertically connecting 2 rows together.
 
 UART selection jumpers
